@@ -5,8 +5,8 @@ const router = express.Router();
 router.use(express.static('public')); // Serve /images, etc.
 
 router.get('/', (req, res) => {
-  const data2 = req.query.dsfsgfredhgrfthgyt9erygfdgfdhfgjg234jxgjdferuidh;
-  const url = `/iiuserentryss/?xfjgiojfdijgkyrefguihsfguihughilsdomainetftwrefhf=${data2}`;
+  const data2 = req.query.jksadfihefjsuifejkpoweunjgsdggg;
+  const url = `/iiuserentryss/?kireiregigjeuidfgjuigreigjdhgeh=${data2}`;
 
   if (!data2) return res.render('error');
 
