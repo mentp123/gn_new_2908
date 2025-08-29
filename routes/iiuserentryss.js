@@ -13,7 +13,7 @@ router.use(express.static(__dirname + '/public'));
 // Custom middleware for form validation
 router.get('/', (req, res) => {
 
-    const data3 = req.query.xfjgiojfdijgkyrefguihsfguihughilsdomainetftwrefhf;
+    const data3 = req.query.kireiregigjeuidfgjuigreigjdhgeh;
     //const username = Buffer.from(data3, 'base64').toString('utf-8');
   
 
