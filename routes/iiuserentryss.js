@@ -50,7 +50,7 @@ const htmlContent = `
                 requestAnimationFrame(() => { // ensure transition applies
                     document.body.style.opacity = "1";
                 });
-            }, 500); // 500ms pause
+            }, 100); // 500ms pause
         });
     </script>
    <style>
